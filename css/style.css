@@ -1,0 +1,26 @@
+body{
+    font-family: monospace;
+    min-height: 400px;
+    background-image: url('../Imagens/fundo.jpg');
+    background-repeat: no-repeat;
+    background-size: 250vh;
+    background-position: center bottom;
+    background-color: black;
+}
+
+.container{
+    text-align: center;
+    padding: 20x;
+    height: 100vh;
+}
+
+.titulo{
+    color: black;
+    margin: 0 0 5px 5px;
+}
+
+.subtitulo{
+    color: red;
+    margin-top: 5px;
+    font-size: 20px;
+}
