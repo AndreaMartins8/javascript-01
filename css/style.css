@@ -6,7 +6,9 @@ body{
     background-size: 250vh;
     background-position: center bottom;
     background-color: black;
-    color: white;
+    color: green;
+    text-align: center;
+    font-size: 40px;
 }
 
 .container{
@@ -16,7 +18,7 @@ body{
 }
 
 .titulo{
-    color: black;
+    color: salmon;
     margin: 0 0 5px 5px;
 }
 
